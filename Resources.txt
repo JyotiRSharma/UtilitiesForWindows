@@ -1,0 +1,2 @@
+https://gist.github.com/oledid/fb02951b6b1848d1418d --> For the code
+https://stackoverflow.com/questions/61224998/how-do-i-execute-a-powershell-script-by-a-shortcut-key --> for the shortcut key allocation
